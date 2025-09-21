@@ -1,10 +1,17 @@
 from fastapi import FastAPI
-from routes import router
+from routes import router as chat_router
+from student_crud_routes import router as student_router
+from analytics import router as analytics_router
+import uvicorn
+
 import uvicorn
 
 app = FastAPI()
 
-app.include_router(router, prefix="/chat")
+app.include_router(chat_router)
+app.include_router(student_router)
+app.include_router(analytics_router)
+
 
 @app.get("/")
 def read_root():

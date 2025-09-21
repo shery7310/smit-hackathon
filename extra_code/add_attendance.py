@@ -1,26 +1,27 @@
 import json
-import os
-from dotenv import load_dotenv
-from pymongo import MongoClient
-
-load_dotenv()
+from backend.db import student_info_collection, students_attendance_collection
 
 def insert_attendance():
-    mongo_uri = os.getenv("db_url")
-    client = MongoClient(mongo_uri)
-    db = client.get_database("student_data")
-    collection = db.get_collection("student_attendance")
-
     with open("attendance.json") as f:
         attendance_data = json.load(f)
 
     # Bulk insert
     if attendance_data:
-        result = collection.insert_many(attendance_data)
+        result = students_attendance_collection.insert_many(attendance_data)
         print(f"Inserted {len(result.inserted_ids)} attendance records.")
     else:
         print("No attendance data found.")
 
-if __name__ == "__main__":
-    insert_attendance()
+
+with open("student_data.json") as f:
+    student_data = json.load(f)
+
+
+def update_many():
+    student_info_collection.insert_many(student_data)
+    print("Added Students")
+
+update_many()
+
+insert_attendance()
 
