@@ -1,0 +1,1202 @@
+[
+  {
+    "studentId": "8721",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "present",
+    "semester": 1
+  },
+  {
+    "studentId": "8721",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "present",
+    "semester": 4
+  },
+  {
+    "studentId": "8721",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "absent",
+    "semester": 8
+  },
+  {
+    "studentId": "8721",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "absent",
+    "semester": 7
+  },
+  {
+    "studentId": "8721",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "present",
+    "semester": 5
+  },
+  {
+    "studentId": "8721",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "present",
+    "semester": 2
+  },
+  {
+    "studentId": "8721",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "present",
+    "semester": 3
+  },
+  {
+    "studentId": "8721",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "absent",
+    "semester": 7
+  },
+  {
+    "studentId": "8721",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "present",
+    "semester": 1
+  },
+  {
+    "studentId": "8721",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "absent",
+    "semester": 7
+  },
+  {
+    "studentId": "6622",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "6622",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "absent",
+    "semester": 3
+  },
+  {
+    "studentId": "6622",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "absent",
+    "semester": 3
+  },
+  {
+    "studentId": "6622",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "absent",
+    "semester": 5
+  },
+  {
+    "studentId": "6622",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "6622",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "absent",
+    "semester": 2
+  },
+  {
+    "studentId": "6622",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "6622",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "absent",
+    "semester": 1
+  },
+  {
+    "studentId": "6622",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "absent",
+    "semester": 5
+  },
+  {
+    "studentId": "6622",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "present",
+    "semester": 8
+  },
+  {
+    "studentId": "3254",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "present",
+    "semester": 4
+  },
+  {
+    "studentId": "3254",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "present",
+    "semester": 1
+  },
+  {
+    "studentId": "3254",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "3254",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "3254",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "3254",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "3254",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "absent",
+    "semester": 5
+  },
+  {
+    "studentId": "3254",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "present",
+    "semester": 8
+  },
+  {
+    "studentId": "3254",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "absent",
+    "semester": 3
+  },
+  {
+    "studentId": "3254",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "absent",
+    "semester": 7
+  },
+  {
+    "studentId": "8021",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "absent",
+    "semester": 7
+  },
+  {
+    "studentId": "8021",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "8021",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "present",
+    "semester": 3
+  },
+  {
+    "studentId": "8021",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "8021",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "absent",
+    "semester": 5
+  },
+  {
+    "studentId": "8021",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "absent",
+    "semester": 3
+  },
+  {
+    "studentId": "8021",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "8021",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "absent",
+    "semester": 3
+  },
+  {
+    "studentId": "8021",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "present",
+    "semester": 4
+  },
+  {
+    "studentId": "8021",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "present",
+    "semester": 1
+  },
+  {
+    "studentId": "9477",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "present",
+    "semester": 8
+  },
+  {
+    "studentId": "9477",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "absent",
+    "semester": 7
+  },
+  {
+    "studentId": "9477",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "absent",
+    "semester": 6
+  },
+  {
+    "studentId": "9477",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "present",
+    "semester": 1
+  },
+  {
+    "studentId": "9477",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "present",
+    "semester": 3
+  },
+  {
+    "studentId": "9477",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "absent",
+    "semester": 3
+  },
+  {
+    "studentId": "9477",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "9477",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "present",
+    "semester": 1
+  },
+  {
+    "studentId": "9477",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "9477",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "present",
+    "semester": 3
+  },
+  {
+    "studentId": "9144",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "present",
+    "semester": 8
+  },
+  {
+    "studentId": "9144",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "9144",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "absent",
+    "semester": 3
+  },
+  {
+    "studentId": "9144",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "absent",
+    "semester": 7
+  },
+  {
+    "studentId": "9144",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "9144",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "present",
+    "semester": 3
+  },
+  {
+    "studentId": "9144",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "present",
+    "semester": 1
+  },
+  {
+    "studentId": "9144",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "absent",
+    "semester": 5
+  },
+  {
+    "studentId": "9144",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "absent",
+    "semester": 6
+  },
+  {
+    "studentId": "9144",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "4854",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "absent",
+    "semester": 8
+  },
+  {
+    "studentId": "4854",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "4854",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "4854",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "4854",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "absent",
+    "semester": 2
+  },
+  {
+    "studentId": "4854",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "absent",
+    "semester": 6
+  },
+  {
+    "studentId": "4854",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "present",
+    "semester": 3
+  },
+  {
+    "studentId": "4854",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "4854",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "present",
+    "semester": 8
+  },
+  {
+    "studentId": "4854",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "present",
+    "semester": 5
+  },
+  {
+    "studentId": "3690",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "present",
+    "semester": 5
+  },
+  {
+    "studentId": "3690",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "3690",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "3690",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "absent",
+    "semester": 7
+  },
+  {
+    "studentId": "3690",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "present",
+    "semester": 2
+  },
+  {
+    "studentId": "3690",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "3690",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "present",
+    "semester": 2
+  },
+  {
+    "studentId": "3690",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "absent",
+    "semester": 3
+  },
+  {
+    "studentId": "3690",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "3690",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "present",
+    "semester": 1
+  },
+  {
+    "studentId": "4462",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "4462",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "present",
+    "semester": 8
+  },
+  {
+    "studentId": "4462",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "absent",
+    "semester": 2
+  },
+  {
+    "studentId": "4462",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "4462",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "4462",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "present",
+    "semester": 4
+  },
+  {
+    "studentId": "4462",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "4462",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "4462",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "present",
+    "semester": 5
+  },
+  {
+    "studentId": "4462",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "4509",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "absent",
+    "semester": 2
+  },
+  {
+    "studentId": "4509",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "present",
+    "semester": 4
+  },
+  {
+    "studentId": "4509",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "absent",
+    "semester": 7
+  },
+  {
+    "studentId": "4509",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "absent",
+    "semester": 1
+  },
+  {
+    "studentId": "4509",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "4509",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "absent",
+    "semester": 8
+  },
+  {
+    "studentId": "4509",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "present",
+    "semester": 3
+  },
+  {
+    "studentId": "4509",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "present",
+    "semester": 8
+  },
+  {
+    "studentId": "4509",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "absent",
+    "semester": 2
+  },
+  {
+    "studentId": "4509",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "8366",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "present",
+    "semester": 4
+  },
+  {
+    "studentId": "8366",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "present",
+    "semester": 5
+  },
+  {
+    "studentId": "8366",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "present",
+    "semester": 3
+  },
+  {
+    "studentId": "8366",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "present",
+    "semester": 5
+  },
+  {
+    "studentId": "8366",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "absent",
+    "semester": 1
+  },
+  {
+    "studentId": "8366",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "absent",
+    "semester": 8
+  },
+  {
+    "studentId": "8366",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "absent",
+    "semester": 7
+  },
+  {
+    "studentId": "8366",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "absent",
+    "semester": 8
+  },
+  {
+    "studentId": "8366",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "absent",
+    "semester": 5
+  },
+  {
+    "studentId": "8366",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "2963",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "absent",
+    "semester": 2
+  },
+  {
+    "studentId": "2963",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "present",
+    "semester": 4
+  },
+  {
+    "studentId": "2963",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "absent",
+    "semester": 5
+  },
+  {
+    "studentId": "2963",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "present",
+    "semester": 1
+  },
+  {
+    "studentId": "2963",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "present",
+    "semester": 4
+  },
+  {
+    "studentId": "2963",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "absent",
+    "semester": 2
+  },
+  {
+    "studentId": "2963",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "present",
+    "semester": 2
+  },
+  {
+    "studentId": "2963",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "absent",
+    "semester": 2
+  },
+  {
+    "studentId": "2963",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "2963",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "present",
+    "semester": 5
+  },
+  {
+    "studentId": "3669",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "present",
+    "semester": 8
+  },
+  {
+    "studentId": "3669",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "absent",
+    "semester": 7
+  },
+  {
+    "studentId": "3669",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "absent",
+    "semester": 8
+  },
+  {
+    "studentId": "3669",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "absent",
+    "semester": 3
+  },
+  {
+    "studentId": "3669",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "absent",
+    "semester": 3
+  },
+  {
+    "studentId": "3669",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "absent",
+    "semester": 5
+  },
+  {
+    "studentId": "3669",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "3669",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "absent",
+    "semester": 6
+  },
+  {
+    "studentId": "3669",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "present",
+    "semester": 1
+  },
+  {
+    "studentId": "3669",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "present",
+    "semester": 1
+  },
+  {
+    "studentId": "4925",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "4925",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "present",
+    "semester": 2
+  },
+  {
+    "studentId": "4925",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "present",
+    "semester": 5
+  },
+  {
+    "studentId": "4925",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "present",
+    "semester": 8
+  },
+  {
+    "studentId": "4925",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "present",
+    "semester": 8
+  },
+  {
+    "studentId": "4925",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "absent",
+    "semester": 1
+  },
+  {
+    "studentId": "4925",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "absent",
+    "semester": 2
+  },
+  {
+    "studentId": "4925",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "4925",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "absent",
+    "semester": 7
+  },
+  {
+    "studentId": "4925",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "absent",
+    "semester": 5
+  },
+  {
+    "studentId": "6915",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "present",
+    "semester": 8
+  },
+  {
+    "studentId": "6915",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "6915",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "6915",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "present",
+    "semester": 2
+  },
+  {
+    "studentId": "6915",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "6915",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "6915",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "6915",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "absent",
+    "semester": 6
+  },
+  {
+    "studentId": "6915",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "absent",
+    "semester": 3
+  },
+  {
+    "studentId": "6915",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "present",
+    "semester": 2
+  },
+  {
+    "studentId": "4538",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "absent",
+    "semester": 2
+  },
+  {
+    "studentId": "4538",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "4538",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "present",
+    "semester": 4
+  },
+  {
+    "studentId": "4538",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "4538",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "4538",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "present",
+    "semester": 3
+  },
+  {
+    "studentId": "4538",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "absent",
+    "semester": 3
+  },
+  {
+    "studentId": "4538",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "absent",
+    "semester": 1
+  },
+  {
+    "studentId": "4538",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "present",
+    "semester": 3
+  },
+  {
+    "studentId": "4538",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "1663",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "present",
+    "semester": 4
+  },
+  {
+    "studentId": "1663",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "absent",
+    "semester": 2
+  },
+  {
+    "studentId": "1663",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "absent",
+    "semester": 6
+  },
+  {
+    "studentId": "1663",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "1663",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "absent",
+    "semester": 1
+  },
+  {
+    "studentId": "1663",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "absent",
+    "semester": 3
+  },
+  {
+    "studentId": "1663",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "1663",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "absent",
+    "semester": 7
+  },
+  {
+    "studentId": "1663",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "1663",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "1708",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "present",
+    "semester": 1
+  },
+  {
+    "studentId": "1708",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "1708",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "present",
+    "semester": 3
+  },
+  {
+    "studentId": "1708",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "1708",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "1708",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "absent",
+    "semester": 5
+  },
+  {
+    "studentId": "1708",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "absent",
+    "semester": 8
+  },
+  {
+    "studentId": "1708",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "present",
+    "semester": 1
+  },
+  {
+    "studentId": "1708",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "absent",
+    "semester": 5
+  },
+  {
+    "studentId": "1708",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "1613",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "present",
+    "semester": 3
+  },
+  {
+    "studentId": "1613",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "absent",
+    "semester": 2
+  },
+  {
+    "studentId": "1613",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "1613",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "absent",
+    "semester": 3
+  },
+  {
+    "studentId": "1613",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "present",
+    "semester": 3
+  },
+  {
+    "studentId": "1613",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "absent",
+    "semester": 7
+  },
+  {
+    "studentId": "1613",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "present",
+    "semester": 2
+  },
+  {
+    "studentId": "1613",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "absent",
+    "semester": 8
+  },
+  {
+    "studentId": "1613",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "1613",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "8298",
+    "date": "2025-01-10T00:00:00Z",
+    "status": "present",
+    "semester": 6
+  },
+  {
+    "studentId": "8298",
+    "date": "2025-01-12T00:00:00Z",
+    "status": "absent",
+    "semester": 7
+  },
+  {
+    "studentId": "8298",
+    "date": "2025-01-14T00:00:00Z",
+    "status": "absent",
+    "semester": 5
+  },
+  {
+    "studentId": "8298",
+    "date": "2025-01-16T00:00:00Z",
+    "status": "absent",
+    "semester": 4
+  },
+  {
+    "studentId": "8298",
+    "date": "2025-01-18T00:00:00Z",
+    "status": "absent",
+    "semester": 7
+  },
+  {
+    "studentId": "8298",
+    "date": "2025-01-20T00:00:00Z",
+    "status": "present",
+    "semester": 7
+  },
+  {
+    "studentId": "8298",
+    "date": "2025-01-22T00:00:00Z",
+    "status": "present",
+    "semester": 3
+  },
+  {
+    "studentId": "8298",
+    "date": "2025-01-24T00:00:00Z",
+    "status": "present",
+    "semester": 4
+  },
+  {
+    "studentId": "8298",
+    "date": "2025-01-26T00:00:00Z",
+    "status": "absent",
+    "semester": 6
+  },
+  {
+    "studentId": "8298",
+    "date": "2025-01-28T00:00:00Z",
+    "status": "present",
+    "semester": 2
+  }
+]
